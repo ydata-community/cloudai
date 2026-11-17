@@ -4,7 +4,7 @@
 
 CloudAI 是一个可自托管的 AI 应用平台，用于创建 AI 助手、连接模型与业务工具，并管理知识库、会话、定时任务和团队权限。支持基于会话记录进行模型评测与人工审核。
 
-[项目主页](https://yuxing-community.github.io/cloudai/) · [飞书资料](https://my.feishu.cn/wiki/YoESwOChSi1giEkjcuccrRsZnJv) · [视频指引](https://b23.tv/gqNsvKg) · [交流群](#资料与交流群) · [赞助商](#赞助商) · [快速开始](#快速开始) · [Docker 部署](#docker-部署) · [反馈问题](https://github.com/YuXing-Community/cloudai/issues)
+[项目主页](https://ydata-community.github.io/cloudai/) · [飞书资料](https://my.feishu.cn/wiki/YoESwOChSi1giEkjcuccrRsZnJv) · [视频指引](https://b23.tv/gqNsvKg) · [交流群](#资料与交流群) · [赞助商](#赞助商) · [快速开始](#快速开始) · [Docker 部署](#docker-部署) · [反馈问题](https://github.com/ydata-community/cloudai/issues)
 
 ## 资料与交流群
 
